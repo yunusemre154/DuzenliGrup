@@ -1,1 +1,2 @@
 # DuzenliGrup
+DuzenliGrup alanını oluşturdum.
